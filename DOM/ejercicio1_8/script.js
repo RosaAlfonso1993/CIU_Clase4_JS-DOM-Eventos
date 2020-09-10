@@ -14,6 +14,7 @@ var $divDestination = document.querySelector("#destination")
 
 $divDestination.textContent = $divSource.innerHTML
 
+
 //Intercambiar texto entre swaps
 var $swap_1 = document.querySelector("#swap_1")
 var alternativa = $swap_1.innerHTML

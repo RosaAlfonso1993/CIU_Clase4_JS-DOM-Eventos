@@ -1,0 +1,14 @@
+img{
+    position: fixed;
+}
+
+body{
+    height: 100vh;
+    cursor: none;
+}
+
+div{
+    background-color: rosybrown;
+    width: 500px;
+    height: 500px;
+}
